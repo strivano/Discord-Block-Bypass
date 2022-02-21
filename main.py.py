@@ -8,11 +8,11 @@ init(convert=True)
 
 class BlockBypass:
     def __init__(self, userId):
-        self.channelId = "945163642494672936"
+        self.channelId = "channel-id-haxxor"
         self.userId = userId
         self.api = 'https://discord.com/api/v8/'
         self.headers = {
-            'Authorization': "OTQ1MTYyNzEyNDE2MTQxMzQy.YhMKIA.uOQPgixKMBbSOEwQ5ud2l_wfGe4", #pun in token
+            'Authorization': "tokenhaxxor", #pun in token
             'Content-Type': 'application/json',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36'
         }
