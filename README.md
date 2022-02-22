@@ -6,6 +6,10 @@ Send messages to discord user that you've blocked.
 https://youtu.be/UId1fV_zjGY
 
 # Credits & Contact
-Ivano, Main Author -> Fweak
+Main Authors
+- Fweak, vany
+
+Co-Author
+- Ivano 
 
 Discord - Ivano.#2468
